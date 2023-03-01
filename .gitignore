@@ -1,0 +1,6 @@
+# build folders
+build/
+Build/
+
+# vscode
+.vscode/
