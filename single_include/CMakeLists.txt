@@ -1,4 +1,4 @@
-project(simple_enum_set)
+project(simple_enum_set_lib)
 
 add_library(${PROJECT_NAME} INTERFACE)
 
