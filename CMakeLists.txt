@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.22.3 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.16.3 FATAL_ERROR)
 
 project(simple_enum_set VERSION 1.0.0)
 
